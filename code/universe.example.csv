@@ -1,0 +1,15 @@
+symbol,name,asset_type,group,shortable
+XOM,Exxon Mobil,STK,Integrated Oil,true
+CVX,Chevron,STK,Integrated Oil,true
+KO,Coca-Cola,STK,Beverages,true
+PEP,PepsiCo,STK,Beverages,true
+V,Visa,STK,Payments,true
+MA,Mastercard,STK,Payments,true
+HD,Home Depot,STK,Home Improvement,true
+LOW,Lowe's,STK,Home Improvement,true
+SPY,SPDR S&P 500 ETF,ETF,US Large Cap,true
+IVV,iShares Core S&P 500 ETF,ETF,US Large Cap,true
+VOO,Vanguard S&P 500 ETF,ETF,US Large Cap,true
+GLD,SPDR Gold Shares,ETF,Gold,true
+IAU,iShares Gold Trust,ETF,Gold,true
+

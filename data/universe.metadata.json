@@ -1,0 +1,7 @@
+{
+  "generated_on": "2026-07-30",
+  "stock_source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
+  "stock_count": 503,
+  "etf_count": 105,
+  "note": "Shortable is a research-universe placeholder; verify live borrow before any trade."
+}

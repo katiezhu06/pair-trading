@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>Daily Pairs Scanner</title>
+<style>
+body{font:14px system-ui,-apple-system,sans-serif;margin:2rem;color:#1d2733;background:#f6f8fb}
+h1{margin-bottom:.2rem} .meta{color:#5c6b7a} .cards{display:flex;gap:1rem;margin:1.5rem 0;flex-wrap:wrap}
+.card{background:white;border:1px solid #dfe5ec;border-radius:10px;padding:1rem;min-width:150px}
+.value{font-size:1.7rem;font-weight:650} .table-wrap{overflow:auto;background:white;border-radius:10px;border:1px solid #dfe5ec}
+table{border-collapse:collapse;width:100%;font-size:12px} th,td{padding:.55rem;border-bottom:1px solid #e8edf2;text-align:right;white-space:nowrap}
+th{background:#edf2f7;position:sticky;top:0} th:nth-child(2),th:nth-child(3),th:nth-child(4),th:nth-child(5),th:nth-child(7),td:nth-child(2),td:nth-child(3),td:nth-child(4),td:nth-child(5),td:nth-child(7){text-align:left}
+.note{max-width:1000px;line-height:1.5;margin-top:1.5rem;color:#475665}
+</style></head><body>
+<h1>Daily pairs scanner</h1><div class="meta">Data through 2026-07-30 · generated 2026-07-30 22:33 UTC</div>
+<div class="cards"><div class="card"><div class="value">7</div>ranked candidates</div>
+<div class="card"><div class="value">0</div>pass all defaults</div><div class="card"><div class="value">0</div>qualified setups now</div></div>
+<div class="table-wrap"><table border="1" class="dataframe ranked">
+  <thead>
+    <tr style="text-align: right;">
+      <th>score</th>
+      <th>first_symbol</th>
+      <th>second_symbol</th>
+      <th>asset_pair</th>
+      <th>group</th>
+      <th>passes_default_filters</th>
+      <th>qualified_setup</th>
+      <th>setup</th>
+      <th>current_zscore</th>
+      <th>hedge_ratio</th>
+      <th>return_correlation</th>
+      <th>adf_stat</th>
+      <th>coint_pvalue_approx</th>
+      <th>fdr_qvalue</th>
+      <th>half_life</th>
+      <th>hurst</th>
+      <th>stability_pass_rate</th>
+      <th>hedge_ratio_cv</th>
+      <th>oos_sharpe</th>
+      <th>oos_annual_return</th>
+      <th>oos_max_drawdown</th>
+      <th>oos_trades</th>
+      <th>oos_win_rate</th>
+      <th>min_avg_dollar_volume</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>69.5</td>
+      <td>IVV</td>
+      <td>VOO</td>
+      <td>ETF/ETF</td>
+      <td>US Large Cap</td>
+      <td>False</td>
+      <td>False</td>
+      <td>WAIT</td>
+      <td>0.13</td>
+      <td>1.000</td>
+      <td>0.999</td>
+      <td>-13.59</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.3</td>
+      <td>0.00</td>
+      <td>100%</td>
+      <td>0.00</td>
+      <td>-4.70</td>
+      <td>-1.5%</td>
+      <td>-1.5%</td>
+      <td>11</td>
+      <td>0%</td>
+      <td>$5,450,193,844</td>
+    </tr>
+    <tr>
+      <td>69.5</td>
+      <td>GLD</td>
+      <td>IAU</td>
+      <td>ETF/ETF</td>
+      <td>Gold</td>
+      <td>False</td>
+      <td>False</td>
+      <td>WAIT</td>
+      <td>-0.80</td>
+      <td>0.995</td>
+      <td>1.000</td>
+      <td>-9.80</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>0.8</td>
+      <td>0.09</td>
+      <td>100%</td>
+      <td>0.00</td>
+      <td>-4.22</td>
+      <td>-1.2%</td>
+      <td>-1.2%</td>
+      <td>10</td>
+      <td>0%</td>
+      <td>$470,482,323</td>
+    </tr>
+    <tr>
+      <td>69.1</td>
+      <td>IVV</td>
+      <td>SPY</td>
+      <td>ETF/ETF</td>
+      <td>US Large Cap</td>
+      <td>False</td>
+      <td>False</td>
+      <td>WAIT</td>
+      <td>0.49</td>
+      <td>1.004</td>
+      <td>0.999</td>
+      <td>-16.52</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>inf</td>
+      <td>0.01</td>
+      <td>100%</td>
+      <td>0.00</td>
+      <td>-5.25</td>
+      <td>-1.8%</td>
+      <td>-1.8%</td>
+      <td>14</td>
+      <td>0%</td>
+      <td>$6,000,354,286</td>
+    </tr>
+    <tr>
+      <td>69.1</td>
+      <td>SPY</td>
+      <td>VOO</td>
+      <td>ETF/ETF</td>
+      <td>US Large Cap</td>
+      <td>False</td>
+      <td>False</td>
+      <td>WAIT</td>
+      <td>-0.61</td>
+      <td>0.996</td>
+      <td>1.000</td>
+      <td>-15.02</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>inf</td>
+      <td>0.01</td>
+      <td>100%</td>
+      <td>0.00</td>
+      <td>-5.18</td>
+      <td>-1.8%</td>
+      <td>-1.8%</td>
+      <td>14</td>
+      <td>0%</td>
+      <td>$5,450,193,844</td>
+    </tr>
+    <tr>
+      <td>33.8</td>
+      <td>CVX</td>
+      <td>XOM</td>
+      <td>STK/STK</td>
+      <td>Integrated Oil</td>
+      <td>False</td>
+      <td>False</td>
+      <td>WAIT</td>
+      <td>0.14</td>
+      <td>0.486</td>
+      <td>0.838</td>
+      <td>-2.92</td>
+      <td>0.145</td>
+      <td>0.203</td>
+      <td>24.1</td>
+      <td>0.43</td>
+      <td>0%</td>
+      <td>0.35</td>
+      <td>0.52</td>
+      <td>2.5%</td>
+      <td>-3.3%</td>
+      <td>10</td>
+      <td>50%</td>
+      <td>$1,658,130,713</td>
+    </tr>
+    <tr>
+      <td>26.6</td>
+      <td>MA</td>
+      <td>V</td>
+      <td>STK/STK</td>
+      <td>Payments</td>
+      <td>False</td>
+      <td>False</td>
+      <td>SHORT_FIRST_LONG_SECOND</td>
+      <td>3.66</td>
+      <td>0.881</td>
+      <td>0.844</td>
+      <td>-2.17</td>
+      <td>0.500</td>
+      <td>0.500</td>
+      <td>35.2</td>
+      <td>0.48</td>
+      <td>11%</td>
+      <td>0.24</td>
+      <td>-0.56</td>
+      <td>-2.1%</td>
+      <td>-3.3%</td>
+      <td>8</td>
+      <td>50%</td>
+      <td>$1,856,706,675</td>
+    </tr>
+    <tr>
+      <td>24.3</td>
+      <td>HD</td>
+      <td>LOW</td>
+      <td>STK/STK</td>
+      <td>Home Improvement</td>
+      <td>False</td>
+      <td>False</td>
+      <td>WAIT</td>
+      <td>0.73</td>
+      <td>1.014</td>
+      <td>0.882</td>
+      <td>-2.28</td>
+      <td>0.435</td>
+      <td>0.500</td>
+      <td>38.6</td>
+      <td>0.50</td>
+      <td>0%</td>
+      <td>0.25</td>
+      <td>-0.66</td>
+      <td>-4.0%</td>
+      <td>-7.0%</td>
+      <td>8</td>
+      <td>50%</td>
+      <td>$660,870,711</td>
+    </tr>
+  </tbody>
+</table></div>
+<p class="note"><strong>Interpretation:</strong> FIRST/SECOND defines the modeled log-price spread. A setup is a research alert, not an order recommendation. Results include approximate Engle–Granger screening p-values, false-discovery adjustment, rolling stability, and a cost-adjusted walk-forward simulation. Confirm borrow availability, live spreads, corporate actions, and position sizing before trading.</p>
+</body></html>

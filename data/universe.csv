@@ -1,0 +1,609 @@
+symbol,name,asset_type,group,broad_group,shortable,source
+IBB,iShares Biotechnology ETF,ETF,Biotechnology,ETF,True,curated unleveraged ETF families
+XBI,SPDR S&P Biotech ETF,ETF,Biotechnology,ETF,True,curated unleveraged ETF families
+FCOM,Fidelity MSCI Communication Services Index ETF,ETF,Communication Services Sector,ETF,True,curated unleveraged ETF families
+IYZ,iShares US Telecommunications ETF,ETF,Communication Services Sector,ETF,True,curated unleveraged ETF families
+VOX,Vanguard Communication Services ETF,ETF,Communication Services Sector,ETF,True,curated unleveraged ETF families
+XLC,Communication Services Select Sector SPDR Fund,ETF,Communication Services Sector,ETF,True,curated unleveraged ETF families
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,ETF,Consumer Discretionary Sector,ETF,True,curated unleveraged ETF families
+IYC,iShares US Consumer Discretionary ETF,ETF,Consumer Discretionary Sector,ETF,True,curated unleveraged ETF families
+VCR,Vanguard Consumer Discretionary ETF,ETF,Consumer Discretionary Sector,ETF,True,curated unleveraged ETF families
+XLY,Consumer Discretionary Select Sector SPDR Fund,ETF,Consumer Discretionary Sector,ETF,True,curated unleveraged ETF families
+FSTA,Fidelity MSCI Consumer Staples Index ETF,ETF,Consumer Staples Sector,ETF,True,curated unleveraged ETF families
+IYK,iShares US Consumer Staples ETF,ETF,Consumer Staples Sector,ETF,True,curated unleveraged ETF families
+VDC,Vanguard Consumer Staples ETF,ETF,Consumer Staples Sector,ETF,True,curated unleveraged ETF families
+XLP,Consumer Staples Select Sector SPDR Fund,ETF,Consumer Staples Sector,ETF,True,curated unleveraged ETF families
+EFA,iShares MSCI EAFE ETF,ETF,Developed ex-US,ETF,True,curated unleveraged ETF families
+IEFA,iShares Core MSCI EAFE ETF,ETF,Developed ex-US,ETF,True,curated unleveraged ETF families
+SCHF,Schwab International Equity ETF,ETF,Developed ex-US,ETF,True,curated unleveraged ETF families
+VEA,Vanguard FTSE Developed Markets ETF,ETF,Developed ex-US,ETF,True,curated unleveraged ETF families
+EEM,iShares MSCI Emerging Markets ETF,ETF,Emerging Markets,ETF,True,curated unleveraged ETF families
+IEMG,iShares Core MSCI Emerging Markets ETF,ETF,Emerging Markets,ETF,True,curated unleveraged ETF families
+SPEM,SPDR Portfolio Emerging Markets ETF,ETF,Emerging Markets,ETF,True,curated unleveraged ETF families
+VWO,Vanguard FTSE Emerging Markets ETF,ETF,Emerging Markets,ETF,True,curated unleveraged ETF families
+FENY,Fidelity MSCI Energy Index ETF,ETF,Energy Sector,ETF,True,curated unleveraged ETF families
+IYE,iShares US Energy ETF,ETF,Energy Sector,ETF,True,curated unleveraged ETF families
+VDE,Vanguard Energy ETF,ETF,Energy Sector,ETF,True,curated unleveraged ETF families
+XLE,Energy Select Sector SPDR Fund,ETF,Energy Sector,ETF,True,curated unleveraged ETF families
+FNCL,Fidelity MSCI Financials Index ETF,ETF,Financial Sector,ETF,True,curated unleveraged ETF families
+IYF,iShares US Financials ETF,ETF,Financial Sector,ETF,True,curated unleveraged ETF families
+VFH,Vanguard Financials ETF,ETF,Financial Sector,ETF,True,curated unleveraged ETF families
+XLF,Financial Select Sector SPDR Fund,ETF,Financial Sector,ETF,True,curated unleveraged ETF families
+IXUS,iShares Core MSCI Total International Stock ETF,ETF,Global ex-US,ETF,True,curated unleveraged ETF families
+VXUS,Vanguard Total International Stock ETF,ETF,Global ex-US,ETF,True,curated unleveraged ETF families
+GLD,SPDR Gold Shares,ETF,Gold,ETF,True,curated unleveraged ETF families
+GLDM,SPDR Gold MiniShares Trust,ETF,Gold,ETF,True,curated unleveraged ETF families
+IAU,iShares Gold Trust,ETF,Gold,ETF,True,curated unleveraged ETF families
+SGOL,abrdn Physical Gold Shares ETF,ETF,Gold,ETF,True,curated unleveraged ETF families
+FHLC,Fidelity MSCI Health Care Index ETF,ETF,Health Care Sector,ETF,True,curated unleveraged ETF families
+IYH,iShares US Healthcare ETF,ETF,Health Care Sector,ETF,True,curated unleveraged ETF families
+VHT,Vanguard Health Care ETF,ETF,Health Care Sector,ETF,True,curated unleveraged ETF families
+XLV,Health Care Select Sector SPDR Fund,ETF,Health Care Sector,ETF,True,curated unleveraged ETF families
+FIDU,Fidelity MSCI Industrials Index ETF,ETF,Industrials Sector,ETF,True,curated unleveraged ETF families
+IYJ,iShares US Industrials ETF,ETF,Industrials Sector,ETF,True,curated unleveraged ETF families
+VIS,Vanguard Industrials ETF,ETF,Industrials Sector,ETF,True,curated unleveraged ETF families
+XLI,Industrial Select Sector SPDR Fund,ETF,Industrials Sector,ETF,True,curated unleveraged ETF families
+IEF,iShares 7-10 Year Treasury Bond ETF,ETF,Intermediate US Treasury,ETF,True,curated unleveraged ETF families
+SCHR,Schwab Intermediate-Term US Treasury ETF,ETF,Intermediate US Treasury,ETF,True,curated unleveraged ETF families
+VGIT,Vanguard Intermediate-Term Treasury ETF,ETF,Intermediate US Treasury,ETF,True,curated unleveraged ETF families
+SPTL,SPDR Portfolio Long Term Treasury ETF,ETF,Long US Treasury,ETF,True,curated unleveraged ETF families
+TLT,iShares 20+ Year Treasury Bond ETF,ETF,Long US Treasury,ETF,True,curated unleveraged ETF families
+VGLT,Vanguard Long-Term Treasury ETF,ETF,Long US Treasury,ETF,True,curated unleveraged ETF families
+FMAT,Fidelity MSCI Materials Index ETF,ETF,Materials Sector,ETF,True,curated unleveraged ETF families
+IYM,iShares US Basic Materials ETF,ETF,Materials Sector,ETF,True,curated unleveraged ETF families
+VAW,Vanguard Materials ETF,ETF,Materials Sector,ETF,True,curated unleveraged ETF families
+XLB,Materials Select Sector SPDR Fund,ETF,Materials Sector,ETF,True,curated unleveraged ETF families
+SMH,VanEck Semiconductor ETF,ETF,Semiconductors,ETF,True,curated unleveraged ETF families
+SOXX,iShares Semiconductor ETF,ETF,Semiconductors,ETF,True,curated unleveraged ETF families
+XSD,SPDR S&P Semiconductor ETF,ETF,Semiconductors,ETF,True,curated unleveraged ETF families
+SCHO,Schwab Short-Term US Treasury ETF,ETF,Short US Treasury,ETF,True,curated unleveraged ETF families
+SHY,iShares 1-3 Year Treasury Bond ETF,ETF,Short US Treasury,ETF,True,curated unleveraged ETF families
+VGSH,Vanguard Short-Term Treasury ETF,ETF,Short US Treasury,ETF,True,curated unleveraged ETF families
+SIVR,abrdn Physical Silver Shares ETF,ETF,Silver,ETF,True,curated unleveraged ETF families
+SLV,iShares Silver Trust,ETF,Silver,ETF,True,curated unleveraged ETF families
+FTEC,Fidelity MSCI Information Technology Index ETF,ETF,Technology Sector,ETF,True,curated unleveraged ETF families
+IYW,iShares US Technology ETF,ETF,Technology Sector,ETF,True,curated unleveraged ETF families
+VGT,Vanguard Information Technology ETF,ETF,Technology Sector,ETF,True,curated unleveraged ETF families
+XLK,Technology Select Sector SPDR Fund,ETF,Technology Sector,ETF,True,curated unleveraged ETF families
+AGG,iShares Core US Aggregate Bond ETF,ETF,US Aggregate Bonds,ETF,True,curated unleveraged ETF families
+BND,Vanguard Total Bond Market ETF,ETF,US Aggregate Bonds,ETF,True,curated unleveraged ETF families
+SCHZ,Schwab US Aggregate Bond ETF,ETF,US Aggregate Bonds,ETF,True,curated unleveraged ETF families
+HYG,iShares iBoxx High Yield Corporate Bond ETF,ETF,US High Yield Bonds,ETF,True,curated unleveraged ETF families
+JNK,SPDR Bloomberg High Yield Bond ETF,ETF,US High Yield Bonds,ETF,True,curated unleveraged ETF families
+USHY,iShares Broad USD High Yield Corporate Bond ETF,ETF,US High Yield Bonds,ETF,True,curated unleveraged ETF families
+IVV,iShares Core S&P 500 ETF,ETF,US Large Cap,ETF,True,curated unleveraged ETF families
+SPLG,SPDR Portfolio S&P 500 ETF,ETF,US Large Cap,ETF,True,curated unleveraged ETF families
+SPY,SPDR S&P 500 ETF Trust,ETF,US Large Cap,ETF,True,curated unleveraged ETF families
+VOO,Vanguard S&P 500 ETF,ETF,US Large Cap,ETF,True,curated unleveraged ETF families
+IWF,iShares Russell 1000 Growth ETF,ETF,US Large Growth,ETF,True,curated unleveraged ETF families
+SCHG,Schwab US Large-Cap Growth ETF,ETF,US Large Growth,ETF,True,curated unleveraged ETF families
+SPYG,SPDR Portfolio S&P 500 Growth ETF,ETF,US Large Growth,ETF,True,curated unleveraged ETF families
+VUG,Vanguard Growth ETF,ETF,US Large Growth,ETF,True,curated unleveraged ETF families
+IWD,iShares Russell 1000 Value ETF,ETF,US Large Value,ETF,True,curated unleveraged ETF families
+SCHV,Schwab US Large-Cap Value ETF,ETF,US Large Value,ETF,True,curated unleveraged ETF families
+SPYV,SPDR Portfolio S&P 500 Value ETF,ETF,US Large Value,ETF,True,curated unleveraged ETF families
+VTV,Vanguard Value ETF,ETF,US Large Value,ETF,True,curated unleveraged ETF families
+IJH,iShares Core S&P Mid-Cap ETF,ETF,US Mid Cap,ETF,True,curated unleveraged ETF families
+MDY,SPDR S&P MidCap 400 ETF Trust,ETF,US Mid Cap,ETF,True,curated unleveraged ETF families
+VO,Vanguard Mid-Cap ETF,ETF,US Mid Cap,ETF,True,curated unleveraged ETF families
+IYR,iShares US Real Estate ETF,ETF,US Real Estate,ETF,True,curated unleveraged ETF families
+SCHH,Schwab US REIT ETF,ETF,US Real Estate,ETF,True,curated unleveraged ETF families
+USRT,iShares Core US REIT ETF,ETF,US Real Estate,ETF,True,curated unleveraged ETF families
+VNQ,Vanguard Real Estate ETF,ETF,US Real Estate,ETF,True,curated unleveraged ETF families
+IJR,iShares Core S&P Small-Cap ETF,ETF,US Small Cap,ETF,True,curated unleveraged ETF families
+IWM,iShares Russell 2000 ETF,ETF,US Small Cap,ETF,True,curated unleveraged ETF families
+SCHA,Schwab US Small-Cap ETF,ETF,US Small Cap,ETF,True,curated unleveraged ETF families
+VB,Vanguard Small-Cap ETF,ETF,US Small Cap,ETF,True,curated unleveraged ETF families
+SCHP,Schwab US TIPS ETF,ETF,US TIPS,ETF,True,curated unleveraged ETF families
+TIP,iShares TIPS Bond ETF,ETF,US TIPS,ETF,True,curated unleveraged ETF families
+ITOT,iShares Core S&P Total US Stock Market ETF,ETF,US Total Market,ETF,True,curated unleveraged ETF families
+SCHB,Schwab US Broad Market ETF,ETF,US Total Market,ETF,True,curated unleveraged ETF families
+SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,ETF,US Total Market,ETF,True,curated unleveraged ETF families
+VTI,Vanguard Total Stock Market ETF,ETF,US Total Market,ETF,True,curated unleveraged ETF families
+FUTY,Fidelity MSCI Utilities Index ETF,ETF,Utilities Sector,ETF,True,curated unleveraged ETF families
+IDU,iShares US Utilities ETF,ETF,Utilities Sector,ETF,True,curated unleveraged ETF families
+VPU,Vanguard Utilities ETF,ETF,Utilities Sector,ETF,True,curated unleveraged ETF families
+XLU,Utilities Select Sector SPDR Fund,ETF,Utilities Sector,ETF,True,curated unleveraged ETF families
+OMC,Omnicom Group,STK,Advertising,Communication Services,True,S&P 500 constituents dataset
+TTD,Trade Desk (The),STK,Advertising,Communication Services,True,S&P 500 constituents dataset
+AXON,Axon Enterprise,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+BA,Boeing,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+GD,General Dynamics,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+GE,GE Aerospace,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+HII,Huntington Ingalls Industries,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+HONA,Honeywell Aerospace,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+HWM,Howmet Aerospace,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+LHX,L3Harris,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+LMT,Lockheed Martin,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+NOC,Northrop Grumman,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+RTX,RTX Corporation,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+TDG,TransDigm Group,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+TXT,Textron,STK,Aerospace & Defense,Industrials,True,S&P 500 constituents dataset
+DE,Deere & Company,STK,Agricultural & Farm Machinery,Industrials,True,S&P 500 constituents dataset
+ADM,Archer Daniels Midland,STK,Agricultural Products & Services,Consumer Staples,True,S&P 500 constituents dataset
+BG,Bunge Global,STK,Agricultural Products & Services,Consumer Staples,True,S&P 500 constituents dataset
+CHRW,C.H. Robinson,STK,Air Freight & Logistics,Industrials,True,S&P 500 constituents dataset
+EXPD,Expeditors International,STK,Air Freight & Logistics,Industrials,True,S&P 500 constituents dataset
+FDX,FedEx,STK,Air Freight & Logistics,Industrials,True,S&P 500 constituents dataset
+UPS,United Parcel Service,STK,Air Freight & Logistics,Industrials,True,S&P 500 constituents dataset
+ROST,Ross Stores,STK,Apparel Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+TJX,TJX Companies,STK,Apparel Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+LULU,Lululemon Athletica,STK,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,True,S&P 500 constituents dataset
+NKE,"Nike, Inc.",STK,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,True,S&P 500 constituents dataset
+RL,Ralph Lauren Corporation,STK,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,True,S&P 500 constituents dataset
+TPR,"Tapestry, Inc.",STK,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,True,S&P 500 constituents dataset
+ADBE,Adobe Inc.,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+ADSK,Autodesk,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+APP,AppLovin,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+CDNS,Cadence Design Systems,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+CRM,Salesforce,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+DDOG,Datadog,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+FICO,Fair Isaac,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+INTU,Intuit,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+ORCL,Oracle Corporation,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+PLTR,Palantir Technologies,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+PTC,PTC Inc.,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+SNPS,Synopsys,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+TRMB,Trimble Inc.,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+TYL,Tyler Technologies,STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+WDAY,"Workday, Inc.",STK,Application Software,Information Technology,True,S&P 500 constituents dataset
+AMP,Ameriprise Financial,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+APO,Apollo Global Management,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+ARES,Ares Management,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+BEN,Franklin Resources,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+BLK,BlackRock,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+BNY,BNY Mellon,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+BX,Blackstone Inc.,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+IVZ,Invesco,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+KKR,KKR & Co.,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+NTRS,Northern Trust,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+STT,State Street Corporation,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+TROW,T. Rowe Price,STK,Asset Management & Custody Banks,Financials,True,S&P 500 constituents dataset
+F,Ford Motor Company,STK,Automobile Manufacturers,Consumer Discretionary,True,S&P 500 constituents dataset
+GM,General Motors,STK,Automobile Manufacturers,Consumer Discretionary,True,S&P 500 constituents dataset
+TSLA,"Tesla, Inc.",STK,Automobile Manufacturers,Consumer Discretionary,True,S&P 500 constituents dataset
+APTV,Aptiv,STK,Automotive Parts & Equipment,Consumer Discretionary,True,S&P 500 constituents dataset
+AZO,AutoZone,STK,Automotive Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+CVNA,Carvana,STK,Automotive Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+ORLY,O’Reilly Automotive,STK,Automotive Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+ABBV,AbbVie,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+AMGN,Amgen,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+BIIB,Biogen,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+GILD,Gilead Sciences,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+INCY,Incyte,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+MRNA,Moderna,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+REGN,Regeneron Pharmaceuticals,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+VRTX,Vertex Pharmaceuticals,STK,Biotechnology,Health Care,True,S&P 500 constituents dataset
+TAP,Molson Coors Beverage Company,STK,Brewers,Consumer Staples,True,S&P 500 constituents dataset
+FOX,Fox Corporation (Class B),STK,Broadcasting,Communication Services,True,S&P 500 constituents dataset
+FOXA,Fox Corporation (Class A),STK,Broadcasting,Communication Services,True,S&P 500 constituents dataset
+WBD,Warner Bros. Discovery,STK,Broadcasting,Communication Services,True,S&P 500 constituents dataset
+AMZN,Amazon,STK,Broadline Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+EBAY,eBay Inc.,STK,Broadline Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+ALLE,Allegion,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+AOS,A. O. Smith,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+BLDR,Builders FirstSource,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+CARR,Carrier Global,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+JCI,Johnson Controls,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+LII,Lennox International,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+MAS,Masco,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+TT,Trane Technologies,STK,Building Products,Industrials,True,S&P 500 constituents dataset
+CHTR,Charter Communications,STK,Cable & Satellite,Communication Services,True,S&P 500 constituents dataset
+CMCSA,Comcast,STK,Cable & Satellite,Communication Services,True,S&P 500 constituents dataset
+FDXF,FedEx Freight,STK,Cargo Ground Transportation,Industrials,True,S&P 500 constituents dataset
+JBHT,J.B. Hunt,STK,Cargo Ground Transportation,Industrials,True,S&P 500 constituents dataset
+ODFL,Old Dominion,STK,Cargo Ground Transportation,Industrials,True,S&P 500 constituents dataset
+LVS,Las Vegas Sands,STK,Casinos & Gaming,Consumer Discretionary,True,S&P 500 constituents dataset
+MGM,MGM Resorts,STK,Casinos & Gaming,Consumer Discretionary,True,S&P 500 constituents dataset
+WYNN,Wynn Resorts,STK,Casinos & Gaming,Consumer Discretionary,True,S&P 500 constituents dataset
+DOW,Dow Inc.,STK,Commodity Chemicals,Materials,True,S&P 500 constituents dataset
+ANET,Arista Networks,STK,Communications Equipment,Information Technology,True,S&P 500 constituents dataset
+CIEN,Ciena,STK,Communications Equipment,Information Technology,True,S&P 500 constituents dataset
+CSCO,Cisco,STK,Communications Equipment,Information Technology,True,S&P 500 constituents dataset
+FFIV,"F5, Inc.",STK,Communications Equipment,Information Technology,True,S&P 500 constituents dataset
+LITE,Lumentum,STK,Communications Equipment,Information Technology,True,S&P 500 constituents dataset
+MSI,Motorola Solutions,STK,Communications Equipment,Information Technology,True,S&P 500 constituents dataset
+BBY,Best Buy,STK,Computer & Electronics Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+EME,Emcor,STK,Construction & Engineering,Industrials,True,S&P 500 constituents dataset
+FIX,Comfort Systems USA,STK,Construction & Engineering,Industrials,True,S&P 500 constituents dataset
+J,Jacobs Solutions,STK,Construction & Engineering,Industrials,True,S&P 500 constituents dataset
+PWR,Quanta Services,STK,Construction & Engineering,Industrials,True,S&P 500 constituents dataset
+CAT,Caterpillar Inc.,STK,Construction Machinery & Heavy Transportation Equipment,Industrials,True,S&P 500 constituents dataset
+CMI,Cummins,STK,Construction Machinery & Heavy Transportation Equipment,Industrials,True,S&P 500 constituents dataset
+PCAR,Paccar,STK,Construction Machinery & Heavy Transportation Equipment,Industrials,True,S&P 500 constituents dataset
+WAB,Wabtec,STK,Construction Machinery & Heavy Transportation Equipment,Industrials,True,S&P 500 constituents dataset
+CRH,CRH plc,STK,Construction Materials,Materials,True,S&P 500 constituents dataset
+MLM,Martin Marietta Materials,STK,Construction Materials,Materials,True,S&P 500 constituents dataset
+VMC,Vulcan Materials Company,STK,Construction Materials,Materials,True,S&P 500 constituents dataset
+GRMN,Garmin,STK,Consumer Electronics,Consumer Discretionary,True,S&P 500 constituents dataset
+AXP,American Express,STK,Consumer Finance,Financials,True,S&P 500 constituents dataset
+COF,Capital One,STK,Consumer Finance,Financials,True,S&P 500 constituents dataset
+SYF,Synchrony Financial,STK,Consumer Finance,Financials,True,S&P 500 constituents dataset
+COST,Costco,STK,Consumer Staples Merchandise Retail,Consumer Staples,True,S&P 500 constituents dataset
+DG,Dollar General,STK,Consumer Staples Merchandise Retail,Consumer Staples,True,S&P 500 constituents dataset
+DLTR,Dollar Tree,STK,Consumer Staples Merchandise Retail,Consumer Staples,True,S&P 500 constituents dataset
+TGT,Target Corporation,STK,Consumer Staples Merchandise Retail,Consumer Staples,True,S&P 500 constituents dataset
+WMT,Walmart,STK,Consumer Staples Merchandise Retail,Consumer Staples,True,S&P 500 constituents dataset
+FCX,Freeport-McMoRan,STK,Copper,Materials,True,S&P 500 constituents dataset
+DLR,Digital Realty,STK,Data Center REITs,Real Estate,True,S&P 500 constituents dataset
+EQIX,Equinix,STK,Data Center REITs,Real Estate,True,S&P 500 constituents dataset
+BR,Broadridge Financial Solutions,STK,Data Processing & Outsourced Services,Industrials,True,S&P 500 constituents dataset
+BF-B,Brown–Forman,STK,Distillers & Vintners,Consumer Staples,True,S&P 500 constituents dataset
+STZ,Constellation Brands,STK,Distillers & Vintners,Consumer Staples,True,S&P 500 constituents dataset
+GPC,Genuine Parts Company,STK,Distributors,Consumer Discretionary,True,S&P 500 constituents dataset
+BAC,Bank of America,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+C,Citigroup,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+JPM,JPMorgan Chase,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+PNC,PNC Financial Services,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+TFC,Truist Financial,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+USB,U.S. Bancorp,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+WFC,Wells Fargo,STK,Diversified Banks,Financials,True,S&P 500 constituents dataset
+CPRT,Copart,STK,Diversified Support Services,Industrials,True,S&P 500 constituents dataset
+CTAS,Cintas,STK,Diversified Support Services,Industrials,True,S&P 500 constituents dataset
+LDOS,Leidos,STK,Diversified Support Services,Industrials,True,S&P 500 constituents dataset
+AEP,American Electric Power,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+CEG,Constellation Energy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+DUK,Duke Energy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+EIX,Edison International,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+ES,Eversource Energy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+ETR,Entergy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+EVRG,Evergy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+EXC,Exelon,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+FE,FirstEnergy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+LNT,Alliant Energy,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+PEG,Public Service Enterprise Group,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+PPL,PPL Corporation,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+SO,Southern Company,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+VST,Vistra Corp.,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+WEC,WEC Energy Group,STK,Electric Utilities,Utilities,True,S&P 500 constituents dataset
+AME,Ametek,STK,Electrical Components & Equipment,Industrials,True,S&P 500 constituents dataset
+EMR,Emerson Electric,STK,Electrical Components & Equipment,Industrials,True,S&P 500 constituents dataset
+ETN,Eaton Corporation,STK,Electrical Components & Equipment,Industrials,True,S&P 500 constituents dataset
+ROK,Rockwell Automation,STK,Electrical Components & Equipment,Industrials,True,S&P 500 constituents dataset
+VRT,Vertiv,STK,Electrical Components & Equipment,Industrials,True,S&P 500 constituents dataset
+APH,Amphenol,STK,Electronic Components,Information Technology,True,S&P 500 constituents dataset
+COHR,Coherent Corp.,STK,Electronic Components,Information Technology,True,S&P 500 constituents dataset
+GLW,Corning Inc.,STK,Electronic Components,Information Technology,True,S&P 500 constituents dataset
+KEYS,Keysight Technologies,STK,Electronic Equipment & Instruments,Information Technology,True,S&P 500 constituents dataset
+ROP,Roper Technologies,STK,Electronic Equipment & Instruments,Information Technology,True,S&P 500 constituents dataset
+TDY,Teledyne Technologies,STK,Electronic Equipment & Instruments,Information Technology,True,S&P 500 constituents dataset
+ZBRA,Zebra Technologies,STK,Electronic Equipment & Instruments,Information Technology,True,S&P 500 constituents dataset
+FLEX,Flex Ltd.,STK,Electronic Manufacturing Services,Information Technology,True,S&P 500 constituents dataset
+JBL,Jabil,STK,Electronic Manufacturing Services,Information Technology,True,S&P 500 constituents dataset
+TEL,TE Connectivity,STK,Electronic Manufacturing Services,Information Technology,True,S&P 500 constituents dataset
+ROL,"Rollins, Inc.",STK,Environmental & Facilities Services,Industrials,True,S&P 500 constituents dataset
+RSG,Republic Services,STK,Environmental & Facilities Services,Industrials,True,S&P 500 constituents dataset
+VLTO,Veralto,STK,Environmental & Facilities Services,Industrials,True,S&P 500 constituents dataset
+WM,Waste Management,STK,Environmental & Facilities Services,Industrials,True,S&P 500 constituents dataset
+CF,CF Industries,STK,Fertilizers & Agricultural Chemicals,Materials,True,S&P 500 constituents dataset
+CTVA,Corteva,STK,Fertilizers & Agricultural Chemicals,Materials,True,S&P 500 constituents dataset
+MOS,Mosaic Company (The),STK,Fertilizers & Agricultural Chemicals,Materials,True,S&P 500 constituents dataset
+CBOE,Cboe Global Markets,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+CME,CME Group,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+COIN,Coinbase,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+FDS,FactSet,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+ICE,Intercontinental Exchange,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+MCO,Moody's Corporation,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+MSCI,MSCI Inc.,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+NDAQ,"Nasdaq, Inc.",STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+SPGI,S&P Global,STK,Financial Exchanges & Data,Financials,True,S&P 500 constituents dataset
+SYY,Sysco,STK,Food Distributors,Consumer Staples,True,S&P 500 constituents dataset
+CASY,Casey's,STK,Food Retail,Consumer Staples,True,S&P 500 constituents dataset
+KR,Kroger,STK,Food Retail,Consumer Staples,True,S&P 500 constituents dataset
+DECK,Deckers Brands,STK,Footwear,Consumer Discretionary,True,S&P 500 constituents dataset
+ATO,Atmos Energy,STK,Gas Utilities,Utilities,True,S&P 500 constituents dataset
+NEM,Newmont,STK,Gold,Materials,True,S&P 500 constituents dataset
+CAH,Cardinal Health,STK,Health Care Distributors,Health Care,True,S&P 500 constituents dataset
+COR,Cencora,STK,Health Care Distributors,Health Care,True,S&P 500 constituents dataset
+HSIC,Henry Schein,STK,Health Care Distributors,Health Care,True,S&P 500 constituents dataset
+MCK,McKesson Corporation,STK,Health Care Distributors,Health Care,True,S&P 500 constituents dataset
+ABT,Abbott Laboratories,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+BAX,Baxter International,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+BDX,Becton Dickinson,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+BSX,Boston Scientific,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+DXCM,Dexcom,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+EW,Edwards Lifesciences,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+GEHC,GE HealthCare,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+IDXX,Idexx Laboratories,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+ISRG,Intuitive Surgical,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+MDT,Medtronic,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+PODD,Insulet Corporation,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+RMD,ResMed,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+RVTY,Revvity,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+STE,Steris,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+SYK,Stryker Corporation,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+ZBH,Zimmer Biomet,STK,Health Care Equipment,Health Care,True,S&P 500 constituents dataset
+HCA,HCA Healthcare,STK,Health Care Facilities,Health Care,True,S&P 500 constituents dataset
+UHS,Universal Health Services,STK,Health Care Facilities,Health Care,True,S&P 500 constituents dataset
+DOC,Healthpeak Properties,STK,Health Care REITs,Real Estate,True,S&P 500 constituents dataset
+VTR,Ventas,STK,Health Care REITs,Real Estate,True,S&P 500 constituents dataset
+WELL,Welltower,STK,Health Care REITs,Real Estate,True,S&P 500 constituents dataset
+CI,Cigna,STK,Health Care Services,Health Care,True,S&P 500 constituents dataset
+CVS,CVS Health,STK,Health Care Services,Health Care,True,S&P 500 constituents dataset
+DGX,Quest Diagnostics,STK,Health Care Services,Health Care,True,S&P 500 constituents dataset
+DVA,DaVita,STK,Health Care Services,Health Care,True,S&P 500 constituents dataset
+LH,Labcorp,STK,Health Care Services,Health Care,True,S&P 500 constituents dataset
+ALGN,Align Technology,STK,Health Care Supplies,Health Care,True,S&P 500 constituents dataset
+COO,Cooper Companies (The),STK,Health Care Supplies,Health Care,True,S&P 500 constituents dataset
+WST,West Pharmaceutical Services,STK,Health Care Supplies,Health Care,True,S&P 500 constituents dataset
+SOLV,Solventum,STK,Health Care Technology,Health Care,True,S&P 500 constituents dataset
+VEEV,Veeva Systems,STK,Health Care Technology,Health Care,True,S&P 500 constituents dataset
+GEV,GE Vernova,STK,Heavy Electrical Equipment,Industrials,True,S&P 500 constituents dataset
+GNRC,Generac,STK,Heavy Electrical Equipment,Industrials,True,S&P 500 constituents dataset
+HD,Home Depot (The),STK,Home Improvement Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+LOW,Lowe's,STK,Home Improvement Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+DHI,D. R. Horton,STK,Homebuilding,Consumer Discretionary,True,S&P 500 constituents dataset
+LEN,Lennar,STK,Homebuilding,Consumer Discretionary,True,S&P 500 constituents dataset
+NVR,"NVR, Inc.",STK,Homebuilding,Consumer Discretionary,True,S&P 500 constituents dataset
+PHM,PulteGroup,STK,Homebuilding,Consumer Discretionary,True,S&P 500 constituents dataset
+WSM,"Williams-Sonoma, Inc.",STK,Homefurnishing Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+HST,Host Hotels & Resorts,STK,Hotel & Resort REITs,Real Estate,True,S&P 500 constituents dataset
+VICI,Vici Properties,STK,Hotel & Resort REITs,Real Estate,True,S&P 500 constituents dataset
+ABNB,Airbnb,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+BKNG,Booking Holdings,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+CCL,Carnival Corporation,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+EXPE,Expedia Group,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+HLT,Hilton Worldwide,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+MAR,Marriott International,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+NCLH,Norwegian Cruise Line Holdings,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+RCL,Royal Caribbean Group,STK,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,True,S&P 500 constituents dataset
+CHD,Church & Dwight,STK,Household Products,Consumer Staples,True,S&P 500 constituents dataset
+CL,Colgate-Palmolive,STK,Household Products,Consumer Staples,True,S&P 500 constituents dataset
+CLX,Clorox,STK,Household Products,Consumer Staples,True,S&P 500 constituents dataset
+KMB,Kimberly-Clark,STK,Household Products,Consumer Staples,True,S&P 500 constituents dataset
+ADP,Automatic Data Processing,STK,Human Resource & Employment Services,Industrials,True,S&P 500 constituents dataset
+PAYX,Paychex,STK,Human Resource & Employment Services,Industrials,True,S&P 500 constituents dataset
+ACN,Accenture,STK,IT Consulting & Other Services,Information Technology,True,S&P 500 constituents dataset
+CTSH,Cognizant,STK,IT Consulting & Other Services,Information Technology,True,S&P 500 constituents dataset
+IBM,IBM,STK,IT Consulting & Other Services,Information Technology,True,S&P 500 constituents dataset
+IT,Gartner,STK,IT Consulting & Other Services,Information Technology,True,S&P 500 constituents dataset
+AES,AES Corporation,STK,Independent Power Producers & Energy Traders,Utilities,True,S&P 500 constituents dataset
+NRG,NRG Energy,STK,Independent Power Producers & Energy Traders,Utilities,True,S&P 500 constituents dataset
+HON,Honeywell Technologies,STK,Industrial Conglomerates,Industrials,True,S&P 500 constituents dataset
+MMM,3M,STK,Industrial Conglomerates,Industrials,True,S&P 500 constituents dataset
+APD,Air Products,STK,Industrial Gases,Materials,True,S&P 500 constituents dataset
+LIN,Linde plc,STK,Industrial Gases,Materials,True,S&P 500 constituents dataset
+DOV,Dover Corporation,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+FTV,Fortive,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+GWW,W. W. Grainger,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+HUBB,Hubbell Incorporated,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+IEX,IDEX Corporation,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+IR,Ingersoll Rand,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+ITW,Illinois Tool Works,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+NDSN,Nordson Corporation,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+OTIS,Otis Worldwide,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+PH,Parker Hannifin,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+PNR,Pentair,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+SNA,Snap-on,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+SWK,Stanley Black & Decker,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+XYL,Xylem Inc.,STK,Industrial Machinery & Supplies & Components,Industrials,True,S&P 500 constituents dataset
+PLD,Prologis,STK,Industrial REITs,Real Estate,True,S&P 500 constituents dataset
+AJG,Arthur J. Gallagher & Co.,STK,Insurance Brokers,Financials,True,S&P 500 constituents dataset
+AON,Aon plc,STK,Insurance Brokers,Financials,True,S&P 500 constituents dataset
+BRO,Brown & Brown,STK,Insurance Brokers,Financials,True,S&P 500 constituents dataset
+ERIE,Erie Indemnity,STK,Insurance Brokers,Financials,True,S&P 500 constituents dataset
+MRSH,Marsh McLennan,STK,Insurance Brokers,Financials,True,S&P 500 constituents dataset
+WTW,Willis Towers Watson,STK,Insurance Brokers,Financials,True,S&P 500 constituents dataset
+CVX,Chevron Corporation,STK,Integrated Oil & Gas,Energy,True,S&P 500 constituents dataset
+XOM,ExxonMobil,STK,Integrated Oil & Gas,Energy,True,S&P 500 constituents dataset
+T,AT&T,STK,Integrated Telecommunication Services,Communication Services,True,S&P 500 constituents dataset
+VZ,Verizon,STK,Integrated Telecommunication Services,Communication Services,True,S&P 500 constituents dataset
+EA,Electronic Arts,STK,Interactive Home Entertainment,Communication Services,True,S&P 500 constituents dataset
+TTWO,Take-Two Interactive,STK,Interactive Home Entertainment,Communication Services,True,S&P 500 constituents dataset
+GOOG,Alphabet Inc. (Class C),STK,Interactive Media & Services,Communication Services,True,S&P 500 constituents dataset
+GOOGL,Alphabet Inc. (Class A),STK,Interactive Media & Services,Communication Services,True,S&P 500 constituents dataset
+META,Meta Platforms,STK,Interactive Media & Services,Communication Services,True,S&P 500 constituents dataset
+AKAM,Akamai Technologies,STK,Internet Services & Infrastructure,Information Technology,True,S&P 500 constituents dataset
+GDDY,GoDaddy,STK,Internet Services & Infrastructure,Information Technology,True,S&P 500 constituents dataset
+VRSN,Verisign,STK,Internet Services & Infrastructure,Information Technology,True,S&P 500 constituents dataset
+GS,Goldman Sachs,STK,Investment Banking & Brokerage,Financials,True,S&P 500 constituents dataset
+HOOD,Robinhood Markets,STK,Investment Banking & Brokerage,Financials,True,S&P 500 constituents dataset
+IBKR,Interactive Brokers,STK,Investment Banking & Brokerage,Financials,True,S&P 500 constituents dataset
+MS,Morgan Stanley,STK,Investment Banking & Brokerage,Financials,True,S&P 500 constituents dataset
+RJF,Raymond James Financial,STK,Investment Banking & Brokerage,Financials,True,S&P 500 constituents dataset
+SCHW,Charles Schwab Corporation,STK,Investment Banking & Brokerage,Financials,True,S&P 500 constituents dataset
+HAS,Hasbro,STK,Leisure Products,Consumer Discretionary,True,S&P 500 constituents dataset
+AFL,Aflac,STK,Life & Health Insurance,Financials,True,S&P 500 constituents dataset
+GL,Globe Life,STK,Life & Health Insurance,Financials,True,S&P 500 constituents dataset
+MET,MetLife,STK,Life & Health Insurance,Financials,True,S&P 500 constituents dataset
+PFG,Principal Financial Group,STK,Life & Health Insurance,Financials,True,S&P 500 constituents dataset
+PRU,Prudential Financial,STK,Life & Health Insurance,Financials,True,S&P 500 constituents dataset
+A,Agilent Technologies,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+CRL,Charles River Laboratories,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+DHR,Danaher Corporation,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+IQV,IQVIA,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+MTD,Mettler Toledo,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+TECH,Bio-Techne,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+TMO,Thermo Fisher Scientific,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+WAT,Waters Corporation,STK,Life Sciences Tools & Services,Health Care,True,S&P 500 constituents dataset
+CNC,Centene Corporation,STK,Managed Health Care,Health Care,True,S&P 500 constituents dataset
+ELV,Elevance Health,STK,Managed Health Care,Health Care,True,S&P 500 constituents dataset
+HUM,Humana,STK,Managed Health Care,Health Care,True,S&P 500 constituents dataset
+UNH,UnitedHealth Group,STK,Managed Health Care,Health Care,True,S&P 500 constituents dataset
+BALL,Ball Corporation,STK,"Metal, Glass & Plastic Containers",Materials,True,S&P 500 constituents dataset
+DIS,Walt Disney Company (The),STK,Movies & Entertainment,Communication Services,True,S&P 500 constituents dataset
+LYV,Live Nation Entertainment,STK,Movies & Entertainment,Communication Services,True,S&P 500 constituents dataset
+NFLX,Netflix,STK,Movies & Entertainment,Communication Services,True,S&P 500 constituents dataset
+PSKY,Paramount Skydance Corporation,STK,Movies & Entertainment,Communication Services,True,S&P 500 constituents dataset
+TKO,TKO Group Holdings,STK,Movies & Entertainment,Communication Services,True,S&P 500 constituents dataset
+AVB,AvalonBay Communities,STK,Multi-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+CPT,Camden Property Trust,STK,Multi-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+EQR,Equity Residential,STK,Multi-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+ESS,Essex Property Trust,STK,Multi-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+MAA,Mid-America Apartment Communities,STK,Multi-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+UDR,"UDR, Inc.",STK,Multi-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+BRK-B,Berkshire Hathaway,STK,Multi-Sector Holdings,Financials,True,S&P 500 constituents dataset
+AEE,Ameren,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+CMS,CMS Energy,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+CNP,CenterPoint Energy,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+D,Dominion Energy,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+DTE,DTE Energy,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+ED,Consolidated Edison,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+NEE,NextEra Energy,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+NI,NiSource,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+PCG,PG&E Corporation,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+PNW,Pinnacle West Capital,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+SRE,Sempra,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+XEL,Xcel Energy,STK,Multi-Utilities,Utilities,True,S&P 500 constituents dataset
+AIG,American International Group,STK,Multi-line Insurance,Financials,True,S&P 500 constituents dataset
+AIZ,Assurant,STK,Multi-line Insurance,Financials,True,S&P 500 constituents dataset
+L,Loews Corporation,STK,Multi-line Insurance,Financials,True,S&P 500 constituents dataset
+ARE,Alexandria Real Estate Equities,STK,Office REITs,Real Estate,True,S&P 500 constituents dataset
+BXP,"BXP, Inc.",STK,Office REITs,Real Estate,True,S&P 500 constituents dataset
+BKR,Baker Hughes,STK,Oil & Gas Equipment & Services,Energy,True,S&P 500 constituents dataset
+HAL,Halliburton,STK,Oil & Gas Equipment & Services,Energy,True,S&P 500 constituents dataset
+SLB,Schlumberger,STK,Oil & Gas Equipment & Services,Energy,True,S&P 500 constituents dataset
+APA,APA Corporation,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+COP,ConocoPhillips,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+DVN,Devon Energy,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+EOG,EOG Resources,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+EQT,EQT Corporation,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+EXE,Expand Energy,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+FANG,Diamondback Energy,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+OXY,Occidental Petroleum,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+TPL,Texas Pacific Land Corporation,STK,Oil & Gas Exploration & Production,Energy,True,S&P 500 constituents dataset
+MPC,Marathon Petroleum,STK,Oil & Gas Refining & Marketing,Energy,True,S&P 500 constituents dataset
+PSX,Phillips 66,STK,Oil & Gas Refining & Marketing,Energy,True,S&P 500 constituents dataset
+VLO,Valero Energy,STK,Oil & Gas Refining & Marketing,Energy,True,S&P 500 constituents dataset
+KMI,Kinder Morgan,STK,Oil & Gas Storage & Transportation,Energy,True,S&P 500 constituents dataset
+OKE,Oneok,STK,Oil & Gas Storage & Transportation,Energy,True,S&P 500 constituents dataset
+TRGP,Targa Resources,STK,Oil & Gas Storage & Transportation,Energy,True,S&P 500 constituents dataset
+WMB,Williams Companies,STK,Oil & Gas Storage & Transportation,Energy,True,S&P 500 constituents dataset
+IRM,Iron Mountain,STK,Other Specialized REITs,Real Estate,True,S&P 500 constituents dataset
+TSCO,Tractor Supply,STK,Other Specialty Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+ULTA,Ulta Beauty,STK,Other Specialty Retail,Consumer Discretionary,True,S&P 500 constituents dataset
+GIS,General Mills,STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+HRL,Hormel Foods,STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+HSY,Hershey Company (The),STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+KHC,Kraft Heinz,STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+MDLZ,Mondelez International,STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+MKC,McCormick & Company,STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+SJM,J.M. Smucker Company (The),STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+TSN,Tyson Foods,STK,Packaged Foods & Meats,Consumer Staples,True,S&P 500 constituents dataset
+AMCR,Amcor,STK,Paper & Plastic Packaging Products & Materials,Materials,True,S&P 500 constituents dataset
+AVY,Avery Dennison,STK,Paper & Plastic Packaging Products & Materials,Materials,True,S&P 500 constituents dataset
+IP,International Paper,STK,Paper & Plastic Packaging Products & Materials,Materials,True,S&P 500 constituents dataset
+PKG,Packaging Corporation of America,STK,Paper & Plastic Packaging Products & Materials,Materials,True,S&P 500 constituents dataset
+SW,Smurfit Westrock,STK,Paper & Plastic Packaging Products & Materials,Materials,True,S&P 500 constituents dataset
+DAL,Delta Air Lines,STK,Passenger Airlines,Industrials,True,S&P 500 constituents dataset
+LUV,Southwest Airlines,STK,Passenger Airlines,Industrials,True,S&P 500 constituents dataset
+UAL,United Airlines Holdings,STK,Passenger Airlines,Industrials,True,S&P 500 constituents dataset
+UBER,Uber,STK,Passenger Ground Transportation,Industrials,True,S&P 500 constituents dataset
+EL,Estée Lauder Companies (The),STK,Personal Care Products,Consumer Staples,True,S&P 500 constituents dataset
+KVUE,Kenvue,STK,Personal Care Products,Consumer Staples,True,S&P 500 constituents dataset
+PG,Procter & Gamble,STK,Personal Care Products,Consumer Staples,True,S&P 500 constituents dataset
+BMY,Bristol Myers Squibb,STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+JNJ,Johnson & Johnson,STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+LLY,Lilly (Eli),STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+MRK,Merck & Co.,STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+PFE,Pfizer,STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+VTRS,Viatris,STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+ZTS,Zoetis,STK,Pharmaceuticals,Health Care,True,S&P 500 constituents dataset
+ACGL,Arch Capital Group,STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+ALL,Allstate,STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+CB,Chubb Limited,STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+CINF,Cincinnati Financial,STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+HIG,Hartford (The),STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+PGR,Progressive Corporation,STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+TRV,Travelers Companies (The),STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+WRB,W. R. Berkley Corporation,STK,Property & Casualty Insurance,Financials,True,S&P 500 constituents dataset
+NWS,News Corp (Class B),STK,Publishing,Communication Services,True,S&P 500 constituents dataset
+NWSA,News Corp (Class A),STK,Publishing,Communication Services,True,S&P 500 constituents dataset
+CSX,CSX Corporation,STK,Rail Transportation,Industrials,True,S&P 500 constituents dataset
+NSC,Norfolk Southern,STK,Rail Transportation,Industrials,True,S&P 500 constituents dataset
+UNP,Union Pacific Corporation,STK,Rail Transportation,Industrials,True,S&P 500 constituents dataset
+CBRE,CBRE Group,STK,Real Estate Services,Real Estate,True,S&P 500 constituents dataset
+CSGP,CoStar Group,STK,Real Estate Services,Real Estate,True,S&P 500 constituents dataset
+CFG,Citizens Financial Group,STK,Regional Banks,Financials,True,S&P 500 constituents dataset
+FITB,Fifth Third Bancorp,STK,Regional Banks,Financials,True,S&P 500 constituents dataset
+HBAN,Huntington Bancshares,STK,Regional Banks,Financials,True,S&P 500 constituents dataset
+KEY,KeyCorp,STK,Regional Banks,Financials,True,S&P 500 constituents dataset
+MTB,M&T Bank,STK,Regional Banks,Financials,True,S&P 500 constituents dataset
+RF,Regions Financial Corporation,STK,Regional Banks,Financials,True,S&P 500 constituents dataset
+EG,Everest Group,STK,Reinsurance,Financials,True,S&P 500 constituents dataset
+EFX,Equifax,STK,Research & Consulting Services,Industrials,True,S&P 500 constituents dataset
+VRSK,Verisk Analytics,STK,Research & Consulting Services,Industrials,True,S&P 500 constituents dataset
+CMG,Chipotle Mexican Grill,STK,Restaurants,Consumer Discretionary,True,S&P 500 constituents dataset
+DPZ,Domino's,STK,Restaurants,Consumer Discretionary,True,S&P 500 constituents dataset
+DRI,Darden Restaurants,STK,Restaurants,Consumer Discretionary,True,S&P 500 constituents dataset
+MCD,McDonald's,STK,Restaurants,Consumer Discretionary,True,S&P 500 constituents dataset
+SBUX,Starbucks,STK,Restaurants,Consumer Discretionary,True,S&P 500 constituents dataset
+YUM,Yum! Brands,STK,Restaurants,Consumer Discretionary,True,S&P 500 constituents dataset
+FRT,Federal Realty Investment Trust,STK,Retail REITs,Real Estate,True,S&P 500 constituents dataset
+KIM,Kimco Realty,STK,Retail REITs,Real Estate,True,S&P 500 constituents dataset
+O,Realty Income,STK,Retail REITs,Real Estate,True,S&P 500 constituents dataset
+REG,Regency Centers,STK,Retail REITs,Real Estate,True,S&P 500 constituents dataset
+SPG,Simon Property Group,STK,Retail REITs,Real Estate,True,S&P 500 constituents dataset
+EXR,Extra Space Storage,STK,Self-Storage REITs,Real Estate,True,S&P 500 constituents dataset
+PSA,Public Storage,STK,Self-Storage REITs,Real Estate,True,S&P 500 constituents dataset
+AMAT,Applied Materials,STK,Semiconductor Materials & Equipment,Information Technology,True,S&P 500 constituents dataset
+KLAC,KLA Corporation,STK,Semiconductor Materials & Equipment,Information Technology,True,S&P 500 constituents dataset
+LRCX,Lam Research,STK,Semiconductor Materials & Equipment,Information Technology,True,S&P 500 constituents dataset
+Q,Qnity Electronics,STK,Semiconductor Materials & Equipment,Information Technology,True,S&P 500 constituents dataset
+TER,Teradyne,STK,Semiconductor Materials & Equipment,Information Technology,True,S&P 500 constituents dataset
+ADI,Analog Devices,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+AMD,Advanced Micro Devices,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+AVGO,Broadcom,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+FSLR,First Solar,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+INTC,Intel,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+MCHP,Microchip Technology,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+MPWR,Monolithic Power Systems,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+MRVL,Marvell Technology,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+MU,Micron Technology,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+NVDA,Nvidia,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+NXPI,NXP Semiconductors,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+ON,ON Semiconductor,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+QCOM,Qualcomm,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+SWKS,Skyworks Solutions,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+TXN,Texas Instruments,STK,Semiconductors,Information Technology,True,S&P 500 constituents dataset
+INVH,Invitation Homes,STK,Single-Family Residential REITs,Real Estate,True,S&P 500 constituents dataset
+KDP,Keurig Dr Pepper,STK,Soft Drinks & Non-alcoholic Beverages,Consumer Staples,True,S&P 500 constituents dataset
+KO,Coca-Cola Company (The),STK,Soft Drinks & Non-alcoholic Beverages,Consumer Staples,True,S&P 500 constituents dataset
+MNST,Monster Beverage,STK,Soft Drinks & Non-alcoholic Beverages,Consumer Staples,True,S&P 500 constituents dataset
+PEP,PepsiCo,STK,Soft Drinks & Non-alcoholic Beverages,Consumer Staples,True,S&P 500 constituents dataset
+DASH,DoorDash,STK,Specialized Consumer Services,Consumer Discretionary,True,S&P 500 constituents dataset
+ALB,Albemarle Corporation,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+DD,DuPont,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+ECL,Ecolab,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+IFF,International Flavors & Fragrances,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+LYB,LyondellBasell,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+PPG,PPG Industries,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+SHW,Sherwin-Williams,STK,Specialty Chemicals,Materials,True,S&P 500 constituents dataset
+NUE,Nucor,STK,Steel,Materials,True,S&P 500 constituents dataset
+STLD,Steel Dynamics,STK,Steel,Materials,True,S&P 500 constituents dataset
+CRWD,CrowdStrike,STK,Systems Software,Information Technology,True,S&P 500 constituents dataset
+FTNT,Fortinet,STK,Systems Software,Information Technology,True,S&P 500 constituents dataset
+GEN,Gen Digital,STK,Systems Software,Information Technology,True,S&P 500 constituents dataset
+MSFT,Microsoft,STK,Systems Software,Information Technology,True,S&P 500 constituents dataset
+NOW,ServiceNow,STK,Systems Software,Information Technology,True,S&P 500 constituents dataset
+PANW,Palo Alto Networks,STK,Systems Software,Information Technology,True,S&P 500 constituents dataset
+CDW,CDW Corporation,STK,Technology Distributors,Information Technology,True,S&P 500 constituents dataset
+AAPL,Apple Inc.,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+DELL,Dell Technologies,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+HPE,Hewlett Packard Enterprise,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+HPQ,HP Inc.,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+NTAP,NetApp,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+SMCI,Supermicro,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+SNDK,Sandisk,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+STX,Seagate Technology,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+WDC,Western Digital,STK,"Technology Hardware, Storage & Peripherals",Information Technology,True,S&P 500 constituents dataset
+AMT,American Tower,STK,Telecom Tower REITs,Real Estate,True,S&P 500 constituents dataset
+CCI,Crown Castle,STK,Telecom Tower REITs,Real Estate,True,S&P 500 constituents dataset
+SBAC,SBA Communications,STK,Telecom Tower REITs,Real Estate,True,S&P 500 constituents dataset
+WY,Weyerhaeuser,STK,Timber REITs,Real Estate,True,S&P 500 constituents dataset
+MO,Altria,STK,Tobacco,Consumer Staples,True,S&P 500 constituents dataset
+PM,Philip Morris International,STK,Tobacco,Consumer Staples,True,S&P 500 constituents dataset
+FAST,Fastenal,STK,Trading Companies & Distributors,Industrials,True,S&P 500 constituents dataset
+URI,United Rentals,STK,Trading Companies & Distributors,Industrials,True,S&P 500 constituents dataset
+CPAY,Corpay,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+FIS,Fidelity National Information Services,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+FISV,Fiserv,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+GPN,Global Payments,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+JKHY,Jack Henry & Associates,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+MA,Mastercard,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+PYPL,PayPal,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+V,Visa Inc.,STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+XYZ,"Block, Inc.",STK,Transaction & Payment Processing Services,Financials,True,S&P 500 constituents dataset
+AWK,American Water Works,STK,Water Utilities,Utilities,True,S&P 500 constituents dataset
+ECHO,EchoStar,STK,Wireless Telecommunication Services,Communication Services,True,S&P 500 constituents dataset
+TMUS,T-Mobile US,STK,Wireless Telecommunication Services,Communication Services,True,S&P 500 constituents dataset

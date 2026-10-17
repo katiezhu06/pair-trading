@@ -1,0 +1,40 @@
+{
+  "snapshot_prepared": "2026-10-15",
+  "market_data_through": "2026-07-30",
+  "original_task": {
+    "id": "019fb520-519b-73c2-b209-dac057cd0116",
+    "title": "Build pair trading research"
+  },
+  "scope": "Daily-bar US stock and ETF pairs research; futures deferred",
+  "universe": {
+    "total_instruments": 608,
+    "stocks": 503,
+    "etfs": 105,
+    "eligible_instruments": 586,
+    "candidate_pairs_tested": 539
+  },
+  "broad_scan": {
+    "pairs_passing_both_statistical_and_economic_filters": 0,
+    "qualified_current_setups": 0
+  },
+  "consistency_analysis": {
+    "positive_base_curves": 192,
+    "positive_at_least_three_of_four_folds": 114,
+    "positive_all_four_folds": 14,
+    "positive_all_six_scenarios": 92,
+    "profit_consistent_pairs": 41,
+    "profit_consistent_and_strict_statistical_pass": 0
+  },
+  "tests": {
+    "framework": "unittest",
+    "passing_tests_at_handoff": 4
+  },
+  "next_recommended_milestone": "Freeze 10-20 candidates and begin timestamped forward paper monitoring on newly arriving data",
+  "warnings": [
+    "Bundled data is stale as of 2026-10-15 and must be refreshed before current trading research",
+    "Current S&P 500 membership introduces survivorship bias",
+    "Profit-consistent pairs do not currently overlap the strict cointegration/stability set",
+    "Short borrow, dividends, market impact, live spreads, taxes, and partial fills are not modeled",
+    "No brokerage order should be prepared or submitted without explicit human approval"
+  ]
+}
